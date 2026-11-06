@@ -5,3 +5,10 @@ def presentacion():
 
 if __name__ == "__main__":
      presentacion
+
+def sumar(a, b):
+    return a + b
+
+def restar(a, b):
+    return a - b
+
